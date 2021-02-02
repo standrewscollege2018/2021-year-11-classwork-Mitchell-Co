@@ -8,7 +8,3 @@ print("hello", name, ",How are you",)
 age = input ("how old are you")
 
 print("Your name is", name, "and you are" , age, "year old")
-
-
-
-

@@ -10,6 +10,6 @@ if age <= CHILD_AGE:
     pay = input("To give money type, yes:")
     print("Thank you")
 
-
+print("New account balance 2.50 :(")
 print("Welcome to the zoo")
 

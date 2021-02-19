@@ -1,3 +1,3 @@
-# This word prints the words hello world
+name = int(input("Number? "))
 
-print("Hello world")
+print("Hello", name,)
